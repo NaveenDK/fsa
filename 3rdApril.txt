@@ -1,0 +1,9 @@
+1) Check my last days code? 
+Why students are not gonna get seeded yet?
+//taking classesEnrolled out first and see if its gonna work
+
+2) Solved the issue with not importing students - i tried deleting
+the classesEnrolled array and it worked but now it works even with
+classesEnrolled
+
+3) Im trying to find how to add array to classesEnrolled 

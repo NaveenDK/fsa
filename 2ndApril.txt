@@ -1,0 +1,49 @@
+1) Adding react bootstrap then add bootswatch -(manually)
+	First go to bootstrap and include bootsrap.min.css then install 
+	npm install react-bootstrap	
+	now the react-bootstrap components will work on your app (eg: Nav etc.)
+2) Add components
+3)RAFCE - shortcut using to create component files
+4) Added header components Navbar, Nav
+5) ms-auto class got the links to right
+
+----WATCH REDUX ---
+
+TODO
+- install redux-dev tools chrome extensino
+- instal npm i redux 
+-install npm i react-redux
+-install redux-thunk
+-install redux-devtools-extension (need this to use chrome extension)
+- Create store.js
+
+
+WACHTED FEW OTHER VIDEOS 
+
+Takeaways -
+-1- React-table (bookmarked) should be used for listing, students and teachers
+-2- we can use teachers as products so do what brad does for products to teachers
+-3- we will be using react router 5 ---once i understnad that i might change to 6 
+but for now we will continue with 5
+-4-react-router-bootstrap install]
+
+
+Created teachers and students dummy data
+Added teachers to teachers with react router so when we now go to
+/teachers it shows the teachers list
+
+-BACKEND
+1) install express and build server
+2) Add Get request to student and students
+3) install nodemon and concurrentl
+4) edit package.json so it all works together
+5) setup env variables
+
+7) Create a mongodb database
+
+GOT STUCK AT - how to import students from seeder script??
+8) install mongodb compass (GUI tool)
+9) PUT the connection string
+
+CONNECT MONGODB
+---->
