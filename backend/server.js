@@ -22,7 +22,7 @@ app.get('/',(req,res)=>{
 
 
 app.use('/api/students',studentRoutes)
-app.use('api/users',userRoutes)
+app.use('/api/users',userRoutes)
 
 app.use(notFound)
 
