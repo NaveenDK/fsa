@@ -1,0 +1,5 @@
+Resuming after about a weeks' break 
+
+1) Checking the code and db
+2) watch redux setup
+	install redux on frontend

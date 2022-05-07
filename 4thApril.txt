@@ -9,3 +9,9 @@ classesEnrolled
 3) Im trying to find how to add array to classesEnrolled - stackoverflow question
 
 4) Watching 'Fetching data from database'
+	-- adding StudentRouting
+
+Student routing added however when i hit wrong id it gives the following error -objectID-stackoverflow
+
+
+
